@@ -1,0 +1,7 @@
+.heading h1{
+    font-size: larger;
+}
+.heading button {
+    float:right;
+    border:1px solid white;
+}
